@@ -1,5 +1,4 @@
-[*] Revamped the whole UI with a brand new looks
-  - Made it cleaner
-[*] Added Home sections
-[*] Added Script Hub integration with ScriptBlox API
-[*] Fixed Monaco editor fonts and other things
+- Revamped the whole UI with a brand new looks
+- Added Home sections
+- Added Script Hub integration with ScriptBlox API
+- Fixed Monaco editor fonts and other things
