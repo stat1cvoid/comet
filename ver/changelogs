@@ -1,4 +1,3 @@
-- Revamped the whole UI with a brand new looks
-- Added Home sections
-- Added Script Hub integration with ScriptBlox API
-- Fixed Monaco editor fonts and other things
+- Added AI client integration to assist user
+- Fixed injection problem and issues
+- Connected Comet to Discord bot
